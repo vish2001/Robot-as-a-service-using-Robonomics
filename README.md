@@ -38,3 +38,10 @@
 `ipfs daemon`
 
 `rosrun kuka_controller move_arm_client.py`
+
+Open robonomics parachain portal: https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Fkusama.rpc.robonomics.network%2F#/explorer
+
+and switch to local node.![Screenshot from 2022-06-26 22-32-37](https://user-images.githubusercontent.com/55589910/175825558-d264def3-ce1e-4a4e-b6a1-218811b350ce.png)
+
+
+
