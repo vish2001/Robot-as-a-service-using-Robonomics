@@ -54,8 +54,18 @@ Send some units to the new account from one of default accounts.
 In config directory in kuka_control package you need to create config file with this lines, where <your_mnemonic> is saved mnemonic seed:
 
 {
+
     "kuka_mnemonic": "<your_mnemonic>",
+    
     "node": "ws://127.0.0.1:9944"
+    
 }
 
+In Robonomics Parachain portal go to Developer/Extrinsics, change extrinsic to launch. Chose your KUKA account in robot and change param to Yes. The press Submit Transaction
+
+![Screenshot from 2022-06-26 22-46-23](https://user-images.githubusercontent.com/55589910/175826017-d583e7c0-da5b-4f5b-9eb5-5f23971a20f3.png)
+
+## Final Result:
+
+https://user-images.githubusercontent.com/55589910/175826065-34907d7e-5b3f-4ed4-b7c4-0c7f7b6ea1ad.mp4
 
