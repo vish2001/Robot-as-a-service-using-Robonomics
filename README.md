@@ -24,3 +24,17 @@
 =>substrate-interface
 
 `pip3 install substrate-interface`
+
+=>Robonomics node (binary file):https://github.com/airalab/robonomics/releases
+
+## Running the model:
+
+`roslaunch manipulator_gazebo manipulator_empty_world.launch`
+
+`rosrun manipulator_gazebo move_arm_server`
+
+`./robonomics --dev --tmp`
+
+`ipfs daemon`
+
+`rosrun kuka_controller move_arm_client.py`
