@@ -7,7 +7,7 @@
 =>Some extra packages:
  `sudo apt-get install ros-melodic-gazebo-ros-control ros-melodic-effort-controllers ros-melodic-joint-state-controller`
 
-IPFS 0.4.22
+=>IPFS 0.4.22
 
 `tar -xvzf go-ipfs_v0.4.22_linux-386.tar.gz`
 
@@ -16,3 +16,11 @@ IPFS 0.4.22
 `sudo bash install.sh`
 
 `ipfs init`
+
+=>pfshttpclient
+
+`pip3 install ipfshttpclient`
+
+=>substrate-interface
+
+`pip3 install substrate-interface`
