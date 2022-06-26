@@ -17,7 +17,7 @@
 
 `ipfs init`
 
-=>pfshttpclient
+=>ipfshttpclient
 
 `pip3 install ipfshttpclient`
 
