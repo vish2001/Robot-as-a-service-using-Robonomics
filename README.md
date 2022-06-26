@@ -9,10 +9,10 @@
 
 IPFS 0.4.22
 
-`tar -xvzf go-ipfs_v0.4.22_linux-386.tar.gz
+`tar -xvzf go-ipfs_v0.4.22_linux-386.tar.gz`
 
-cd go-ipfs/
+`cd go-ipfs/`
 
-sudo bash install.sh
+`sudo bash install.sh`
 
-ipfs init`
+`ipfs init`
